@@ -1,4 +1,4 @@
-﻿id , comment_text , label1 , label2 , label3 , label4 , label5 
+id,text,label1,label2,label3,label4,label5
 47 , " 什麼 意思 ？   我 也 不 知道   應該 吧 " , 1 , 0 , 0 , 0 , 0 
 50 , " 跟 你 講一件 事   快吐血 了   啥小 " , 1 , 0 , 0 , 0 , 0 
 54 , " 平常 閒著 的 時候 喜歡 做什麼 ？ " , 0 , 1 , 0 , 0 , 0 
