@@ -1,4 +1,4 @@
-﻿id,text,label1,label2,label3,label4,label5
+﻿id,text,廢話,興趣,態度,人際,隱私
 label2,你 的 興趣 是 甚麼？,0,1,0,0,0
 label2_1,我 喜歡 吃 義大利麵 ,0,1,0,0,0
 label3,你 對 這件 事 的 想法 是 什麼？,0,0,1,0,0
